@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pre.Podcast.Cons/1.0.0": {
+        "dependencies": {
+          "Pre.Podcast.Core": "1.0.0"
+        },
+        "runtime": {
+          "Pre.Podcast.Cons.dll": {}
+        }
+      },
+      "Pre.Podcast.Core/1.0.0": {
+        "runtime": {
+          "Pre.Podcast.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pre.Podcast.Cons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pre.Podcast.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\bin\Debug\net5.0\Pre.Podcast.Core.deps.json
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\bin\Debug\net5.0\Pre.Podcast.Core.dll
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\bin\Debug\net5.0\ref\Pre.Podcast.Core.dll
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\bin\Debug\net5.0\Pre.Podcast.Core.pdb
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\obj\Debug\net5.0\Pre.Podcast.Core.csprojAssemblyReference.cache
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\obj\Debug\net5.0\Pre.Podcast.Core.GeneratedMSBuildEditorConfig.editorconfig
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\obj\Debug\net5.0\Pre.Podcast.Core.AssemblyInfoInputs.cache
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\obj\Debug\net5.0\Pre.Podcast.Core.AssemblyInfo.cs
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\obj\Debug\net5.0\Pre.Podcast.Core.csproj.CoreCompileInputs.cache
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\obj\Debug\net5.0\Pre.Podcast.Core.dll
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\obj\Debug\net5.0\ref\Pre.Podcast.Core.dll
+I:\School\Howest\3) Derde Semester\Programming-Expert\Oefeningen\Pre.Podcast\Pre.Podcast.Core\obj\Debug\net5.0\Pre.Podcast.Core.pdb
